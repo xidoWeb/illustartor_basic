@@ -4,5 +4,5 @@
 ### [](https://drive.google.com/drive/folders/1eRlu5ls0WOd7zhVSxwXhRuJKAEG7bc9Y?usp=sharing)
 
 ### day_01
-1. https://drive.google.com/open?id=1IbNW4mN2EnEOMXwaOxVStu-1Ru5Xn332
-2. https://drive.google.com/open?id=1OjQ9GSucg57vQ6ieqBOKsShL6NS0Gyfu
+1. [OT before](https://drive.google.com/open?id=1IbNW4mN2EnEOMXwaOxVStu-1Ru5Xn332)
+2. [setting](https://drive.google.com/open?id=1OjQ9GSucg57vQ6ieqBOKsShL6NS0Gyfu)
