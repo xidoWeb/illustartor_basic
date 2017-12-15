@@ -15,6 +15,7 @@
 ### step_03
 1. [rotate, shape, scale](https://drive.google.com/file/d/1JSwbJkNczatzeOJLbORxh-gNhTf7zxNM/view?usp=sharing)
 2. [test: camera, mugcup, headphone](https://drive.google.com/open?id=1UafL_0QPtqJblnFl6w-vSg5lNJ05C-Bu)
+3. [icon](https://drive.google.com/drive/folders/1cIrgJncNhMRZRGxc5xZEBKQ5WdHSdOhM?usp=sharing)
 
 ### step_04
 1. [icon make 1]
