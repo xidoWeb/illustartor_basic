@@ -15,6 +15,9 @@
 
 ### step_03 
 1. [test2: icon](https://drive.google.com/file/d/1SEpr4IwTKzmnzFOLFh4POKpxJWLPz3XA/view?usp=sharing)
+2. [color, gradient](https://drive.google.com/file/d/1D-KzSpcn90FF5NZvejif95ZDGysF89-f/view?usp=sharing)
+3. [test3: product](https://drive.google.com/file/d/10dbyV6eduw-2py4beFGp_BHRzy_VnyJt/view?usp=sharing)
+4. [pen tool](https://drive.google.com/file/d/1dtLXkzgIR-jVep7-jBf7I5mM6VzLjrlu/view?usp=sharing)
 
 ### step_04
 
