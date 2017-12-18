@@ -10,21 +10,15 @@
 ### step_02
 1. [select, shape, arrange, layer](https://drive.google.com/file/d/1ie8JZqAMeYOog369HfZF-U7aeZEM92od/view?usp=sharing)
 2. [align, pathfinder, rotate](https://drive.google.com/file/d/1xXlyulfz2pIJCbxEE_FkHAgYzOjQTdZC/view?usp=sharing)
-3. [polygon animation](https://drive.google.com/drive/folders/1b6EOuDSzx0wXgUn-e5s-NSOByXnW6I5A?usp=sharing)
+3. [rotate, shape, scale](https://drive.google.com/file/d/1JSwbJkNczatzeOJLbORxh-gNhTf7zxNM/view?usp=sharing)
+4. [test1: polygon animation](https://drive.google.com/file/d/14nRbZcl7hPbt-zjvNOXTgWYiTz-HWsAC/view?usp=sharing)
 
-### step_03
-1. [rotate, shape, scale](https://drive.google.com/file/d/1JSwbJkNczatzeOJLbORxh-gNhTf7zxNM/view?usp=sharing)
-2. [test: camera, mugcup, headphone](https://drive.google.com/open?id=1UafL_0QPtqJblnFl6w-vSg5lNJ05C-Bu)
-3. [icon](https://drive.google.com/drive/folders/1cIrgJncNhMRZRGxc5xZEBKQ5WdHSdOhM?usp=sharing)
+### step_03 
+1. [test2: icon](https://drive.google.com/file/d/1SEpr4IwTKzmnzFOLFh4POKpxJWLPz3XA/view?usp=sharing)
 
 ### step_04
-1. [icon make 1]
-2. [색의 이해,도형툴실습] 
-3. [test]
-4. [도형툴실습2:character]
 
 ### step_05
-1.[펜툴이해]
-2.[test:]
+
 ---
 <https://xidoweb.github.io/sbs1712/>
