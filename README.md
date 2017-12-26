@@ -20,6 +20,9 @@
 4. [pen tool](https://drive.google.com/file/d/1dtLXkzgIR-jVep7-jBf7I5mM6VzLjrlu/view?usp=sharing)
 
 ### step_04
+1. [blend tool](https://drive.google.com/file/d/1BmDnrNuvuiruBQNKghRCLhieadb8XYHh/view?usp=sharing)
+2. [font, 설치용폰트첨부](https://drive.google.com/drive/folders/1i6O4UrgKv9NYaO4NYoERQ1JCuOYNmxnC?usp=sharing)
+3. [pattern](https://drive.google.com/file/d/1rSn-OHtn4A4qqAQG938kqox7W3qfPQha/view?usp=sharing)
 
 ### step_05
 
