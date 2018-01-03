@@ -28,8 +28,9 @@
 ### step_05
 1. [mesh](https://drive.google.com/file/d/1FIb2WOxi3tFUu9fNq6H-cCOzzJ0l2Fbt/view?usp=sharing)
 2. [perspective grid and isomatric](https://drive.google.com/file/d/11RGtgQuf0va4fQnx6ADFVKNfVSONhKoM/view?usp=sharing)
-~~3. [test illustrator]()
-4. [illustrator 12]()~~
+
+~~[test illustrator]()~~
+~~[illustrator 12]()~~
 
 ---
 <https://xidoweb.github.io/sbs1712/>
