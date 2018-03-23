@@ -33,4 +33,4 @@
 ~~[illustrator 12]()~~
 
 ---
-<https://xidoweb.github.io/sbs1712/>
+<https://xidoweb.github.io/illustrator_basic/>
